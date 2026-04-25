@@ -10,11 +10,11 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 # Quick Links
 
 - Interactive Dashboard:
-- Raw Dataset:
+[Raw Dataset]: (skyfleet_aircraft_dataset.csv)
 
 # Data Source
 
-- Original Dataset: 
+[Original Dataset on Kaggle](https://www.kaggle.com/datasets/hemangkumar/commercial-aircraft-inventory-and-specs)
 
 
 # Tools Used
