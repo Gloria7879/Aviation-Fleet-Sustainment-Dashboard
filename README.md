@@ -25,7 +25,7 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 
 ## 1.Initial Data Inspection & Preparation (Excel)
 - **Visual Audit:** Performed a scan in **Excel** to identify column relationships, data types and obvious data errors.
-- **Data Cleaning:** Checked for null or blank valuses and removed any duplicates that existed.
+- **Data Cleaning:** Checked for null or blank values and removed any duplicates that existed.
 
 ## 2. Advanced Feature Engineering
 - **Maintenance Thresholds:** Utilized **XLOOKUP** to assign service interval hours to assets based on Engine Type. Calculated Service Interval Remaining to predict downtime.
@@ -36,11 +36,11 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 ## 3. Interactive Visualization
 - **KPI development:** Calculated key metrics including **Total Seat Capacity,Operational Readiness Rate, Average Hours to Next Maintenance, and Assets in Maintenance.**
 - Developed a **Maintenance Priority** graph to identify assets approching critical maintenance thresholds.
-- Developed a **Mission Capabiity Breakdown** to track the Operational Readiness Rate (ORR).
+- Developed a **Mission Capability Breakdown** to track the Operational Readiness Rate (ORR).
 - Integrated **Slicers** to allow for multi-dimensional filtering (Airline/Model/Status).
 
   # Key Insights & Findings
-- **Operational Readiness Gap:** The fleet currenly maintains a **44% baseline ORR**. While this includes retired assets, the dashboard reveals that the 16 assets currently under maintenance are the primary bottleneck for active operations.
+- **Operational Readiness Gap:** The fleet currenyly maintains a **44% baseline ORR**. While this includes retired assets, the dashboard reveals that the 16 assets currently under maintenance are the primary bottleneck for active operations.
   
 - **Fuel Efficiency Insight:** There is a siginificant performance gap between different aircraft models.The **Airbus A320neo (13.26 L/Seat/Hr)** is nearly **3x more efficient** than the **Boeing 787-9 (36.43 L/Seat/Hr)** within this specific fleet configuration.
   
