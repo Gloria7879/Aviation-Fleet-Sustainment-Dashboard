@@ -28,12 +28,12 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
   
 ## 2. Advanced Feature Engineering
 - **Maintenance Thresholds:** Utilized **XLOOKUP** to assign service interval hours to assets based on Engine Type. Calculated Service Interval Remaining to predict downtime.
-- **Operational Logic:** Developed a nested Readiness Status engine with **conditional formatting** for instant visual alerts.
+- **Operational Logic:** Developed a dynamic Readiness Status engine with **conditional formatting** for instant visual alerts.
 - **Economic Metrics:** Derived Fuel Per Seat to analyze fleet efficiency.
 - **Binary Flags:** Implemented a Maintenance Flag to maintain data integrity during multi-use of slicers.
   
 ## 3. Interactive Visualization
 - **KPI development:** Calculated key metrics including **Total Seat Capacity,Operational Readiness Rate, Average Hours to Next Maintenance, and Assets in Maintenance.**
 - Developed a **Maintenance Priority** graph to identify assets approching critical maintenance thresholds.
-- Built a **Mission Capabiity Breakdown** to track the Operational Readiness Rate (ORR).
+- Developed a **Mission Capabiity Breakdown** to track the Operational Readiness Rate (ORR).
 - Integrated **Slicers** to allow for multi-dimensional filtering (Airline/Model/Status).
