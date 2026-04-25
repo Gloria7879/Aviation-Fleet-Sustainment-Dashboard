@@ -27,7 +27,7 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 - **Visual Audit:** Performed a scan in **Excel** to identify column relationships, data types and obvious data errors.
   
 ## 2. Advanced Feature Engineering
-- **Maintenance Thresholds:** Utilized **XLOOKUP** to assign service interval hours to assets based on Engine Type. Calculated Service Interval Remaing to predict downtime.
+- **Maintenance Thresholds:** Utilized **XLOOKUP** to assign service interval hours to assets based on Engine Type. Calculated Service Interval Remaining to predict downtime.
 - **Operational Logic:** Developed a nested Readiness Status engine with **conditional formatting** for instant visual alerts.
 - **Economic Metrics:** Derived Fuel Per Seat to analyze fleet efficiency.
 - **Binary Flags:** Implemented a Maintenance Flag to maintain data integrity during multi-use of slicers.
