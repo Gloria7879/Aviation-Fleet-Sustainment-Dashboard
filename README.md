@@ -18,7 +18,7 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 
 
 # Tools Used
-**Excel: Data Cleaning, Visualization and Dashboarding
+**Excel:** Data Cleaning, Visualization and Dashboarding
 
 # The Process
 
