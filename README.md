@@ -9,8 +9,8 @@ Interactive Excel Dashboard for tracking aircraft readiness and maintenance cycl
 
 # Quick Links
 
--Interactive Dashboard:
--Raw Dataset:
+- Interactive Dashboard:
+- Raw Dataset:
 
 # Data Source
 
