@@ -33,6 +33,6 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
   
 ## 3. Interactive Visualization
 - **KPI development:** Calculated key metrics including **Total Seat Capacity,Operational Readiness Rate, Average Hours to Next Maintenance, and Assets in Maintenance.**
-- **Developed a **Maintenance Priority** graph to identify assets approching critical maintenance thresholds.
+- Developed a **Maintenance Priority** graph to identify assets approching critical maintenance thresholds.
 - Built a **Mission Capabiity Breakdown** to track the Operational Readiness Rate (ORR).
 - Integrated **Slicers** to allow for multi-dimensional filtering (Airline/Model/Status).
