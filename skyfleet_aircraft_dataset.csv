@@ -1,0 +1,51 @@
+Airline,Aircraft_Model,Registration_ID,Year_Built,Seats,Engine_Type,Range_km,Fuel_Burn_L_hr,Status
+Air India,A320neo,A4691,2014,187,Rolls-Royce XWB,15529,2875,Active
+United Airlines,Boeing 787-9,E3036,1998,769,Pratt & Whitney PW4000,7880,11764,Active
+Lufthansa,Embraer E190,B3731,2011,151,Rolls-Royce XWB,11921,12380,Active
+Delta Airlines,Boeing 737 MAX,C7193,2013,294,CFM56,6948,11077,Retired
+Singapore Airlines,Airbus A350,A3380,2020,778,GE Genx,12185,2168,Active
+Qatar Airways,Boeing 737 MAX,B8689,2017,551,CFM LEAP-1A,9784,7775,Active
+Turkish Airlines,Embraer E190,A5743,2019,553,Rolls-Royce Trent,13780,11834,Active
+Singapore Airlines,Embraer E190,B6255,2015,484,Rolls-Royce Trent,13959,4106,Under Maintenance
+Emirates,Boeing 737 MAX,D2433,2009,511,CFM56,10902,2173,Retired
+Delta Airlines,Airbus A350,A9273,2015,355,IAE V2500,13570,8623,Active
+Air India,A320neo,E2871,2000,307,CFM56,9241,7238,Retired
+Delta Airlines,A320neo,B9791,1997,748,Pratt & Whitney PW4000,5876,5027,Active
+Qatar Airways,Airbus A380,C1587,2020,850,CFM56,14757,2622,Retired
+United Airlines,Boeing 747-8i,A1196,2013,237,Rolls-Royce Trent,9445,13093,Retired
+Qatar Airways,Embraer E190,C1738,2022,324,Rolls-Royce XWB,9482,11050,Under Maintenance
+Air India,Airbus A380,E6863,2008,622,Rolls-Royce XWB,11403,6580,Under Maintenance
+United Airlines,Boeing 787-9,B8050,2022,195,GE Genx,12732,12288,Active
+Air India,Boeing 747-8i,E8236,2006,543,Rolls-Royce XWB,15109,11000,Under Maintenance
+Singapore Airlines,Boeing 737 MAX,D8757,1999,181,GE Genx,5550,4293,Active
+Emirates,Boeing 737 MAX,A9744,1999,804,Rolls-Royce Trent,14328,12490,Retired
+Qatar Airways,Boeing 777-300ER,E6668,2018,594,Rolls-Royce Trent,7094,10181,Active
+Air India,Airbus A380,D6025,2021,562,CFM LEAP-1A,9998,3333,Retired
+Singapore Airlines,Airbus A380,C9751,2004,455,Pratt & Whitney PW4000,13950,10381,Under Maintenance
+Lufthansa,Embraer E190,E9787,2004,695,GE Genx,13546,3931,Retired
+Singapore Airlines,Airbus A380,A5541,2006,276,IAE V2500,13017,12390,Active
+Singapore Airlines,Airbus A350,C5580,2000,369,GE Genx,11367,8111,Active
+Emirates,Boeing 777-300ER,B2513,1998,216,IAE V2500,8845,13751,Active
+Emirates,Boeing 747-8i,C3646,2007,556,Rolls-Royce XWB,8416,10698,Under Maintenance
+Lufthansa,Embraer E190,B8813,2016,117,CFM56,12893,11737,Under Maintenance
+Emirates,Boeing 777-300ER,A6687,2012,823,IAE V2500,15226,4749,Under Maintenance
+Singapore Airlines,Boeing 777-300ER,C5064,2003,451,GE Genx,15056,2899,Active
+Emirates,Airbus A350,E7580,2002,509,Rolls-Royce XWB,6076,6893,Active
+Delta Airlines,Boeing 737 MAX,D6133,2004,332,GE Genx,13476,11350,Under Maintenance
+Air India,Boeing 777-300ER,A4840,2005,168,GE Genx,12940,13199,Under Maintenance
+Singapore Airlines,Boeing 787-9,B9977,2014,245,Pratt & Whitney PW4000,15415,13868,Under Maintenance
+Singapore Airlines,Embraer E190,A4830,2006,290,Rolls-Royce XWB,8057,2538,Retired
+Air India,Boeing 777-300ER,B9827,2020,801,Pratt & Whitney PW4000,13381,2201,Retired
+Turkish Airlines,Boeing 777-300ER,D6553,2006,486,CFM LEAP-1A,13259,12891,Retired
+Delta Airlines,Boeing 737 MAX,C3731,2005,850,Rolls-Royce Trent,9129,9197,Under Maintenance
+United Airlines,Boeing 737 MAX,A4310,2005,139,IAE V2500,12143,8946,Retired
+Air India,Boeing 787-9,A4131,2004,571,Rolls-Royce Trent,10410,6169,Active
+Singapore Airlines,Boeing 777-300ER,B6445,2004,362,GE Genx,10059,12465,Under Maintenance
+United Airlines,A320neo,A7288,2013,562,CFM LEAP-1A,11073,6655,Under Maintenance
+Air India,Embraer E190,D2603,2000,274,Rolls-Royce Trent,8207,5502,Active
+Air India,Airbus A380,C5086,2020,734,Rolls-Royce XWB,10651,8045,Active
+United Airlines,A320neo,D6226,2013,647,Rolls-Royce XWB,6482,5690,Under Maintenance
+Emirates,Boeing 737 MAX,A9155,2015,790,Rolls-Royce XWB,10023,13857,Active
+Emirates,Airbus A350,A3931,1995,614,Pratt & Whitney PW4000,11813,13696,Active
+Air India,Embraer E190,E4902,1998,749,IAE V2500,6211,10545,Under Maintenance
+Qatar Airways,Boeing 777-300ER,D3156,1998,139,IAE V2500,7328,4893,Active
