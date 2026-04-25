@@ -10,7 +10,8 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 # Quick Links
 
 - Interactive Dashboard:
-[Raw Dataset]: (skyfleet_aircraft_dataset.csv)
+  
+[Cleaned Raw Dataset](https://github.com/Gloria7879/Aviation-Fleet-Sustainment-Dashboard/blob/main/skyfleet_aircraft_dataset.csv)
 
 # Data Source
 
