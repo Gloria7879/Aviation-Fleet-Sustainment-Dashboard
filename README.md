@@ -26,7 +26,7 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 ## 1.Initial Data Inspection & Preparation (Excel)
 - **Visual Audit:** Performed a scan in **Excel** to identify column relationships, data types and obvious data errors.
 - **Data Cleaning:** Checked for null or blank valuses and removed any duplicates that existed.
-- 
+
 ## 2. Advanced Feature Engineering
 - **Maintenance Thresholds:** Utilized **XLOOKUP** to assign service interval hours to assets based on Engine Type. Calculated Service Interval Remaining to predict downtime.
 - **Operational Logic:** Developed a dynamic Readiness Status engine with **conditional formatting** for instant visual alerts.
