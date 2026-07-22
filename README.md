@@ -40,7 +40,7 @@ This project is a dynamic **Fleet Management & Sustainement Tool** designed to p
 - Integrated **Slicers** to allow for multi-dimensional filtering (Airline/Model/Status).
 
   # Key Insights & Findings
-- **Operational Readiness Gap:** The fleet currenyly maintains a **44% baseline ORR**. While this includes retired assets, the dashboard reveals that the 16 assets currently under maintenance are the primary bottleneck for active operations.
+- **Operational Readiness Gap:** The fleet currently maintains a **44% baseline ORR**. While this includes retired assets, the dashboard reveals that the 16 assets currently under maintenance are the primary bottleneck for active operations.
   
 - **Fuel Efficiency Insight:** There is a siginificant performance gap between different aircraft models.The **Airbus A320neo (13.26 L/Seat/Hr)** is nearly **3x more efficient** than the **Boeing 787-9 (36.43 L/Seat/Hr)** within this specific fleet configuration.
   
